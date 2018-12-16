@@ -1,0 +1,25 @@
+{
+  "name": "esamesi2",
+  "version": "1.0.0",
+  "description": "Vanes Carrer :art:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanes996/EsameSI2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanes996/EsameSI2/issues"
+  },
+  "homepage": "https://github.com/Vanes996/EsameSI2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "node-fetch": "^2.3.0"
+  }
+}
